@@ -4,6 +4,7 @@
 - Dodge or get shrinked
 
 ## Installation
+- Prerequisite: `ncurses`
 ```bash
 git clone https://github.com/sahaj-b/ball-dodge.git
 cd ball-dodge
